@@ -1,0 +1,27 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+# COMP3311 20T3 Final Exam Q9
+
+(a)
+
+create or replace function fixCoursesOnAddCourseEnrolment()
+... add rest of function definition here ...
+
+
+(b)
+
+create or replace function fixCoursesOnDropCourseEnrolment()
+... add rest of function definition here ...
+
+
+(c)
+
+create or replace function fixCoursesOnModCourseEnrolment()
+... add rest of function definition here ...
+
